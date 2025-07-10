@@ -1,7 +1,8 @@
 # Sistema para escola
 
 Sistema simples de gerenciamento escolar feito em JavaScript para ser executado no terminal.
-Ele permite cadastrar, excluir alunos e cursos, matricular alunos em cursos e visualizar os dados cadastrados.
+Ele solicita ao usuário uma senha, se estiver correta permite cadastrar, excluir alunos e cursos, 
+matricular alunos em cursos e visualizar os dados cadastrados.
 
 🎯 Objetivos
 
