@@ -5,6 +5,11 @@ let cursos = []; // Lista de cursos disponíveis
 
 let opcao; // Variável para armazenar a opção do menu
 
+let senha = prompt('digite a senha');
+if (senha = 'senai123'){
+    console.log('senha correta');
+
+
 do {
     // Exibe o menu de opções
     opcao = prompt(
@@ -143,4 +148,7 @@ do {
             break;
     }
 
-} while (opcao !== '7');
+} while (opcao !== '7')
+} else {
+    console.log('Senha incorreta'); }
+
